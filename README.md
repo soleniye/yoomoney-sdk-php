@@ -1,6 +1,6 @@
 
 
-# PHP Yoomoney API SDK
+# [UNOFFICIAL] PHP Yoomoney API SDK
 
 ## Requirements
 
